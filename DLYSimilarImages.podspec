@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
   s.source_files  = "DLYSimilarImages/*"
   
 
-  s.public_header_files = "CustomAlertView/DLYSimilarImages.h"
+  s.public_header_files = "DLYSimilarImages/DLYSimilarImages.h"
 
 end
